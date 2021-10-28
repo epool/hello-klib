@@ -1,0 +1,6 @@
+framework module MulticoinAddressValidator {
+    umbrella header "MulticoinAddressValidator.h"
+
+    export *
+    module * { export * }
+}
